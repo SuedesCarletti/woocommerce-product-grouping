@@ -1,0 +1,44 @@
+.ec-grupo-seletor {
+    margin: 12px 0;
+}
+
+.ec-grupo-label {
+    display: inline-block;
+    font-weight: 600;
+    margin-right: 8px;
+}
+
+.ec-grupo-cores {
+    margin-bottom: 8px;
+}
+
+.ec-grupo-cor-dot {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    margin-right: 8px;
+    border: 2px solid transparent;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset;
+    vertical-align: middle;
+}
+
+.ec-grupo-cor-dot.is-active {
+    border-color: #333;
+}
+
+.ec-grupo-volt-btn {
+    display: inline-block;
+    padding: 4px 12px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #333;
+}
+
+.ec-grupo-volt-btn.is-active {
+    border-color: #333;
+    font-weight: 600;
+}
