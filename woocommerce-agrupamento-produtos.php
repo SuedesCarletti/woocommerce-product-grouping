@@ -1,9 +1,11 @@
 <?php
 /**
  * Plugin Name: Agrupamento de Produtos por Cor/Voltagem
+ * Plugin URI: https://github.com/SuedesCarletti/woocommerce-product-grouping
  * Description: Vincula produtos WooCommerce que representam a mesma peça em cores/voltagens diferentes, exibindo um seletor de variação na página do produto e evitando duplicidade nas listagens.
  * Version: 1.0.0
- * Author: Sued
+ * Author: Suedes Carletti
+ * License: Todos os direitos reservados / All rights reserved
  * Text Domain: ec-agrupamento
  * Requires Plugins: woocommerce
  */
